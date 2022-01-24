@@ -1,0 +1,2 @@
+# The_FizzBuzz_Algorithm_with_Python
+This is a children's game but it is said to be one of the most asked problem in interviews for programmers. The rule of the game is simple: supposed that there are numbers from 1 to 100, if a number is divisible by 3, it's "Fizz", if it's divisible by 5 then it's "Buzz", if it's divisible by both 3 and 5 then it's "FizzBuzz", otherwise it's itself.  The code in this repository should probably be the most efficient way to demonstrate this game.  It works with the for loop syntax and if-else logic. 
